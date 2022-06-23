@@ -573,10 +573,10 @@ img {
 
 .services-title {
   font-family: var(--font-montserrat);
-  color: var(--color-black);
+  color: var(--color-dark);
   text-transform: uppercase;
-  font-size: 1.5rem;
-  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .service-left h1 {
@@ -584,6 +584,7 @@ img {
   font-family: var(--font-montserrat);
   font-weight: 700;
   margin-bottom: 2rem;
+  margin-left: -3px;
 }
 
 .service-left p {

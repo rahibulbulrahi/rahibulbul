@@ -9,6 +9,10 @@ $(document).ready(function () {
   });
 });
 
+$(".navbar .menu li a").click(function () {
+  $("html").css("scrollBehavior", "smooth");
+});
+
 // Navbar Scroll slide-up
 // $(".scroll-up-btn").click(function () {
 //   $("html").animate({ scrollTop: 0 });
@@ -71,3 +75,5 @@ window.addEventListener("scroll", () => {
     });
   }
 });
+
+// Active on scroll
