@@ -296,7 +296,7 @@ img {
 
 /* About Section */
 .about {
-  height: 100vh;
+  height: 100%;
   padding-top: 100px;
   margin: 3rem;
   text-align: justify;
@@ -602,7 +602,7 @@ img {
 
 /* Resume Section */
 .resume {
-  height: 100vh;
+  height: 150vh;
   padding-top: 100px;
 }
 
