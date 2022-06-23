@@ -554,6 +554,16 @@ img {
   content: "100%";
 }
 
+/* About Pop up */
+/* .popup-model {
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-black);
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+} */
+
 /* Services Section */
 .services {
   height: 100vh;
